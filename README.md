@@ -12,4 +12,6 @@ To verify that this works, go to Documents/Endless Space 2/Temporary Files, and 
 
 To uninstall this, verify the game in your steam library. This will cause no damage to your save games whatsoever.
 
-If you have any problems with getting this to work, feel free to join the [ESG Discord Server](https://discord.gg/eAfNtB3) and asking for help.
+If you have any problems with getting this to work, feel free to join the [ESG Discord Server](https://discord.gg/eAfNtB3) and try asking for help.
+
+If you can't find help there, and the Achievement Enabler still does not work, try Kuma's mod that does the same thing. You may find it [here](https://www.patreon.com/posts/46302678).
