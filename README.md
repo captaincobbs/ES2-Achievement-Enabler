@@ -1,6 +1,10 @@
 # ES2-Achievement-Enabler
 This mods enables ES2 achievements when using modding tools or mods.
 
+This only makes two lines of changes from the base game, one to stop the game from disabling achievements when mods are loaded, and two to change the diagnostic message that appears when achievements are disabled because of mods.
+
+You will not have any additional desyncs, and it is functional with every steam workshop mod. This is a very simple editing of game files.
+
 To install this, hit Code > Download ZIP.
 Extract the zip into C:\Program Files (x86)\Steam\steamapps\common\Endless Space 2\EndlessSpace2_Data\Managed
 
