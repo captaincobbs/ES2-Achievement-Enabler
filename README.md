@@ -20,6 +20,6 @@ Please note, not all types of mods disable achievements. Specifically, graphical
 
 To uninstall this, verify the game in your steam library. This will cause no damage to your save games whatsoever.
 
-If you have any problems with getting this to work, feel free to join the [ESG Discord Server](https://discord.gg/eAfNtB3) and try asking for help.
+If you have any problems with getting this to work, feel free to friend me on discord (my username is captaincobbs), or friending me on [steam](https://steamcommunity.com/id/thisisnttheurlyouarelookingfor/).
 
 If you can't find help there, and the Achievement Enabler still does not work, try Kuma's mod that does the same thing. You may find it [here](https://www.patreon.com/posts/46302678).
