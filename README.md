@@ -16,7 +16,7 @@ To verify that this works, go to Documents/Endless Space 2/Temporary Files, and 
 
 * `Cobbs has politely told your achievements to stay enabled.` If you see this, you correctly installed the mod. Good job.
 
-Please note, not all types of mods disable achievements. Specifically, graphical and translation mods do not affect translations, and will not cause my message to show up, so keep that in mind.
+Please note, not all types of mods disable achievements. Specifically, graphical and translation mods do not affect achievements, and will not cause my message to show up, so keep that in mind.
 
 To uninstall this, verify the game in your steam library. This will cause no damage to your save games whatsoever.
 
